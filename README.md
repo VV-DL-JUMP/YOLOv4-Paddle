@@ -1,2 +1,2 @@
 # YOLOv4-Paddle
-yolov4 paddlepaddle论文复现
+Paddle复现YOLOv4论文
